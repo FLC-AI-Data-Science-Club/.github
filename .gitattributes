@@ -1,0 +1,2 @@
+public/logo.png filter=lfs diff=lfs merge=lfs -text
+public/logo.svg filter=lfs diff=lfs merge=lfs -text
