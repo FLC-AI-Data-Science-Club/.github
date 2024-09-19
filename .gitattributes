@@ -1,2 +1,4 @@
 public/logo.png filter=lfs diff=lfs merge=lfs -text
 public/logo.svg filter=lfs diff=lfs merge=lfs -text
+public/logo-officer.svg filter=lfs diff=lfs merge=lfs -text
+public/logo-officer.png filter=lfs diff=lfs merge=lfs -text
